@@ -4,14 +4,18 @@ It is important for the cursors of those who are lurking on your Google Doc to f
 
 Give them a home for rest and relaxation in a cursor's natural space.
 
+```
 Cursor Park & Nature Preserve
 🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
-🌳                🐝                  🌳
-🌳                          🐌        🌳
-🌳      🐖    🐁                      🌳
-🌳                            🐘  🐌  🌳
-🌳    🐝                              🌳
+🌳      🐌      🐐                        🌳
+🌳                    🌴🐕                🌳
+🌳                🐛                      🌳
+🌳                                        🌳
+🌳                        🐝              🌳
 🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
+```
+
+Note: Because of Unicode/Fonts being silly, you may need to add some spacing to your nature preserve. It seems to work correctly in Nerd Font Complete in my terminal, but other places not so much.
 
 ## Build cursorpark
 
