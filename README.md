@@ -33,3 +33,12 @@ This will generate a very big park with lots of animals. Be careful cursors!
 ```
 cursorpark --width=50 --height=12 --freq=0.30
 ```
+
+## Docker
+
+You can build & run `cursorpark` with Docker on your local machine (until or unless the image is published on the [Docker Hub](hub.docker.com).
+
+```
+$ docker build --pull --tag cursorpark .
+$ docker run --rm cursorpark <flags>
+```
