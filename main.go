@@ -25,7 +25,7 @@ Cursor Park & Nature Preserve
 
 const (
 	tree  = "🌳"
-	blank = "  "
+	blank = "⬜"
 )
 
 func main() {
